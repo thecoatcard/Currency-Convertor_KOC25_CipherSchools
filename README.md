@@ -1,2 +1,4 @@
 # Currency-Convertor_KOC25_CipherSchools
-this is a currency convertor with voice guide
+Anand Kumar Shukla
+Reg no. 12220335
+Roll no. A22
